@@ -6,11 +6,10 @@ public class Array2Run {
 		
 		Array2Example arr2 = new Array2Example();
 		
-		//arr2.ex1();
-		//rr2.ex2();
+		arr2.ex1();
+		arr2.ex2();
 		arr2.ex3();
-		//arr2.ex2();
-
+	
 	}
 
 }

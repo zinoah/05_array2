@@ -19,8 +19,8 @@ public class Array2Example {
 		
 		int[][] arr;
 		// int 2차원 배열을 참조하는 참조 변수 선언
-		//int arr[][]
-		//int[] arr[]
+		// int arr[][]
+		// int[] arr[]
 		// note ! (참조형 == 참조 변수 == 레퍼런스 변수 == 레퍼런스)
 		
 		// 2차원 배열 할당
